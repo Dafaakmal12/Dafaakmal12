@@ -1,3 +1,4 @@
+### Hi there 👋
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate Technology Lover from Indonesia. I focus on exploration in areas like web development.
 </p>
@@ -78,7 +79,7 @@
   Thank you for visiting my GitHub profile! Have a great day! 😄
 </p>
 
-### Hi there 👋
+
 
 <!--
 **Dafaakmal12/Dafaakmal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
