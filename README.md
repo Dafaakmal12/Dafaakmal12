@@ -61,9 +61,7 @@
 
 <!-- Add your animated GIF below -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://giphy.com/embed/UDclWKlmfmq7twI3iJ" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-  <iframe src="https://giphy.com/embed/UDclWKlmfmq7twI3iJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/StellarGenetic-bird-owl-white-faced-scops-UDclWKlmfmq7twI3iJ">via GIPHY</a></p> 
-</p>
+ <iframe src="https://giphy.com/embed/UDclWKlmfmq7twI3iJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/StellarGenetic-bird-owl-white-faced-scops-UDclWKlmfmq7twI3iJ">via GIPHY</a></p>
 
 <p align="center">
   📚 Always learning, always growing.
