@@ -19,7 +19,7 @@
 
 <!-- Use a table to organize your tech stack -->
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="120">
         <img src="https://img.shields.io/badge/Linux-Enthusiast-333333?style=for-the-badge&logo=linux" alt="Linux">
