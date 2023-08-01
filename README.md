@@ -6,10 +6,6 @@
   🚀 Let's connect and collaborate:
 </p>
 
-
-
-## 🔧 Technologies & Tools
-
 ## 🔧 Technologies & Tools
 
 <p align="center">
