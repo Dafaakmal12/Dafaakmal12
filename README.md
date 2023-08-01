@@ -22,10 +22,10 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=febriaricandra&amp;theme=neon-dark&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D">
-    <img src="" alt="GitHub Streak" style="max-width: 100%;">
-  </a>
-</p>
+  ## GitHub Streak
+
+:fire: Streak: 14 days
+  <
 
 ## 🚀 Projects
 
