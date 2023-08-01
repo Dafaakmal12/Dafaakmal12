@@ -10,6 +10,8 @@
 
 ## 🔧 Technologies & Tools
 
+## 🔧 Technologies & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Enthusiast-333333?style=for-the-badge&logo=linux" alt="Linux">
   <img src="https://img.shields.io/badge/Git-Geek-333333?style=for-the-badge&logo=git" alt="Git">
@@ -18,7 +20,9 @@
   <img src="https://img.shields.io/badge/Node.js-Lover-333333?style=for-the-badge&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-Geek-333333?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Docker-Fan-333333?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Laravel-Enthusiast-333333?style=for-the-badge&logo=laravel" alt="Laravel">
 </p>
+
 
 
 
