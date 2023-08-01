@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/Dafaakmal12/EventManagement">
-    <img src="https://img.shields.io/badge/Project%20A-Repository-yellow?style=for-the-badge">
+    <img src="your_coding_friend.gif" alt="Your Coding Friend" class="animated-image">
   </a>
   <a href="https://github.com/febriaricandra/project-b">
     <img src="https://img.shields.io/badge/Project%20B-Repository-orange?style=for-the-badge" alt="Project B">
