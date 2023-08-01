@@ -29,8 +29,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/febriaricandra/project-a">
-    <img src="https://img.shields.io/badge/Project%20A-Repository-yellow?style=for-the-badge" alt="Project A">
+  <a href="https://github.com/Dafaakmal12/EventManagement">
+    <img src="https://img.shields.io/badge/Project%20A-Repository-yellow?style=for-the-badge">
   </a>
   <a href="https://github.com/febriaricandra/project-b">
     <img src="https://img.shields.io/badge/Project%20B-Repository-orange?style=for-the-badge" alt="Project B">
