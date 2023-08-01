@@ -20,12 +20,10 @@
   <img src="https://img.shields.io/badge/Laravel-Enthusiast-333333?style=for-the-badge&logo=laravel" alt="Laravel">
 </p>
 
-
-
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=febriaricandra&amp;theme=calm&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=febriaricandra&amp;theme=calm&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="max-width: 100%;">
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=febriaricandra&amp;theme=neon-dark&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D">
+    <img src="" alt="GitHub Streak" style="max-width: 100%;">
   </a>
 </p>
 
