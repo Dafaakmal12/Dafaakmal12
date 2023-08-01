@@ -21,24 +21,38 @@
 
 
 
-
 ## 🚀 Projects
 
 <p align="center">
-  Check out some of my projects below:
+  <b>Explore some of my awesome projects:</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dafaakmal12/EventManagement">
-    <img src="your_coding_friend.gif" alt="Your Coding Friend" class="animated-image">
+  <a href="https://github.com/febriaricandra/project-a">
+    <img src="https://img.shields.io/badge/Project%20A-GitHub%20Repository-2f2f2f?style=for-the-badge&logo=github" alt="Project A">
   </a>
   <a href="https://github.com/febriaricandra/project-b">
-    <img src="https://img.shields.io/badge/Project%20B-Repository-orange?style=for-the-badge" alt="Project B">
+    <img src="https://img.shields.io/badge/Project%20B-GitHub%20Repository-2f2f2f?style=for-the-badge&logo=github" alt="Project B">
   </a>
   <a href="https://github.com/febriaricandra/project-c">
-    <img src="https://img.shields.io/badge/Project%20C-Repository-red?style=for-the-badge" alt="Project C">
+    <img src="https://img.shields.io/badge/Project%20C-GitHub%20Repository-2f2f2f?style=for-the-badge&logo=github" alt="Project C">
   </a>
 </p>
+
+<p align="center">
+  <i>These projects are the result of my passion and dedication in creating innovative solutions.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/febriaricandra/project-a?style=social" alt="Project A Stars">
+  <img src="https://img.shields.io/github/stars/febriaricandra/project-b?style=social" alt="Project B Stars">
+  <img src="https://img.shields.io/github/stars/febriaricandra/project-c?style=social" alt="Project C Stars">
+</p>
+
+<p align="center">
+  🌟 Don't forget to star your favorite projects to show your support!
+</p>
+
 
 <p align="center">
   🌟 Star your favorite projects to show your support!
