@@ -27,6 +27,12 @@
   </a>
 </p>
 
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=febriaricandra&amp;theme=calm&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=febriaricandra&amp;theme=calm&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="max-width: 100%;">
+  </a>
+</p>
 
 ## 🚀 Projects
 
