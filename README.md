@@ -59,6 +59,11 @@
   </table>
 </p>
 
+<!-- Add your animated GIF below -->
+<p align="center">
+  <img src="https://path/to/your/animated-gif.gif" alt="Animated GIF">
+</p>
+
 <p align="center">
   📚 Always learning, always growing.
 </p>
