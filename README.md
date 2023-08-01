@@ -1,5 +1,5 @@
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate software developer from Indonesia. I love building innovative and user-friendly applications.
+  Welcome to my GitHub profile! I'm a passionate Technology Lover from Indonesia. I focus on exploration in areas like web development.
 </p>
 
 <p align="center">
