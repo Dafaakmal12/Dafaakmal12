@@ -60,7 +60,7 @@
 </p>
 
 <!-- Add your animated GIF below -->
-<p align="center">
+<p align="center" width=50">
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" alt="Animated GIF">
 </p>
 
